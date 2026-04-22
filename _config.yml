@@ -1,0 +1,5 @@
+title: Sanctuary Password Manager
+description: Secure local-only password manager.
+theme: jekyll-theme-minimal
+# This tells Jekyll to treat PRIVACY.md as the index if we rename it or use a redirect.
+# Alternatively, we can just name it index.md.

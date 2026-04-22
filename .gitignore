@@ -1,0 +1,11 @@
+node_modules/
+dist/
+release/
+*.vault
+*.tmp
+.env
+.DS_Store
+scratch/
+out/
+bin/
+obj/
